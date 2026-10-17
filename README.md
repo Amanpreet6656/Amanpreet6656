@@ -13,11 +13,11 @@ I am a software developer focused on building systems from first principles. I p
 
 ## Primary Projects
 
-* **[InferC](link-to-repo):** A C++17 machine learning inference engine built from scratch. Designed to study edge deployment and CPU cache locality without relying on external dependencies.
-* **[Smart Kanji Analyzer](link-to-repo):** A client-side Japanese morphological analyzer utilizing JavaScript and Kuromoji.js. Built to automate vocabulary extraction and JLPT classification during my language studies.
-* **[BuildLedger Pro](link-to-repo):** A local-first construction payroll manager engineered for offline environments, built entirely with Vanilla JavaScript and the Web Storage API.
-* **[Kissa Punjab](link-to-repo):** A production web platform for historical literature, featuring normalized SQL schemas and secure PHP delivery handlers for digital assets.
-* **[Portfolio Architecture](link-to-repo):** A custom 3D scroll engine developed purely with Vanilla JavaScript and CSS perspective mathematics, avoiding third-party animation libraries.
+* **[InferC](https://github.com/Amanpreet6656/InferC):** A C++17 machine learning inference engine built from scratch. Designed to study edge deployment and CPU cache locality without relying on external dependencies.
+* **[Smart Kanji Analyzer](https://github.com/Amanpreet6656/smart-kanji-analyzer)):** A client-side Japanese morphological analyzer utilizing JavaScript and Kuromoji.js. Built to automate vocabulary extraction and JLPT classification during my language studies.
+* **[BuildLedger Pro](https://github.com/Amanpreet6656/BuildLedger-Pro):** A local-first construction payroll manager engineered for offline environments, built entirely with Vanilla JavaScript and the Web Storage API.
+* **[Nihongo-syntax-matrix](https://github.com/Amanpreet6656/Nihongo-syntax-matrix):**An offline-first, dependency-free Japanese morphology and temporal syntax engine.
+* **[Portfolio Architecture](https://github.com/Amanpreet6656/My-Portfolio):** A custom 3D scroll engine developed purely with Vanilla JavaScript and CSS perspective mathematics, avoiding third-party animation libraries.
 
 ## Academic & Engineering Interests
 
