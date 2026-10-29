@@ -35,7 +35,7 @@ I am a software developer who enjoys building systems from first principles. Rat
 
 ### Contact Information
 
-- **Email:** amanpreet6656@gmail.com
+- **Email:** amanpreetsingh21605@gmail.com
 - **Portfolio:** [amanpreet-singh.vercel.app](https://amanpreet-singh.vercel.app)
 
 </details>
@@ -72,7 +72,7 @@ I am a software developer who enjoys building systems from first principles. Rat
 
 ### 連絡先
 
-- **Email:** amanpreet6656@gmail.com
+- **Email:** amanpreetsingh21605@gmail.com
 - **ポートフォリオ:** [amanpreet-singh.vercel.app](https://amanpreet-singh.vercel.app)
 
 </details>
