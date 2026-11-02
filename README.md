@@ -25,7 +25,7 @@ I am a software developer who enjoys building systems from first principles. Rat
 - **[Smart Kanji Analyzer](https://github.com/Amanpreet6656/smart-kanji-analyzer):** A client-side web tool I developed to automate Japanese vocabulary extraction and JLPT classification, combining my daily language studies with JavaScript and Kuromoji.js.
 - **[BuildLedger Pro](https://github.com/Amanpreet6656/BuildLedger-Pro):** A local-first construction payroll manager I engineered for offline environments, built purely with Vanilla JavaScript and the Web Storage API.
 - **[Nihongo Syntax Matrix](https://github.com/Amanpreet6656/Nihongo-syntax-matrix):** A dependency-free, offline-first JavaScript engine I designed for processing Japanese temporal syntax and morphology.
-- **[Portfolio Architecture](https://github.com/Amanpreet6656/My-Portfolio):** A custom 3D scroll engine developed with Vanilla JavaScript and CSS perspective mathematics, avoiding third-party animation libraries to maximize rendering performance.
+- **[Portfolio Architecture](https://github.com/Amanpreet6656/My-Portfolio):** Raw, zero-dependency frontend architecture. A brutalist, multi-page portfolio built with vanilla HTML/CSS/JS emphasizing structural integrity, offline-first caching, and zero framework overhead.
 
 ### Academic & Engineering Interests
 
@@ -62,7 +62,7 @@ I am a software developer who enjoys building systems from first principles. Rat
 - **[Smart Kanji Analyzer](https://github.com/Amanpreet6656/smart-kanji-analyzer):** 日々の日本語学習を効率化するために開発した語彙抽出・JLPTレベル自動判定ツール。Kuromoji.jsを活用し、解析処理をクライアントサイドで完結。
 - **[BuildLedger Pro](https://github.com/Amanpreet6656/BuildLedger-Pro):** 建設現場などのオフライン環境を想定し、Vanilla JavaScriptとWeb Storage APIのみで設計したローカルファーストの給与計算管理ツール。
 - **[Nihongo Syntax Matrix](https://github.com/Amanpreet6656/Nihongo-syntax-matrix):** 日本語の時間表現・文法形態素を処理するために独自設計した、外部依存のないオフライン対応解析エンジン。
-- **[Portfolio Architecture](https://github.com/Amanpreet6656/My-Portfolio):** 描画パフォーマンスを最大化するため、外部アニメーションライブラリを排除し、Vanilla JavaScriptとCSSの透視投影計算のみで構築した軽量3Dスクロールエンジン。
+- **[Portfolio Architecture](https://github.com/Amanpreet6656/My-Portfolio):** 依存関係ゼロのネイティブ・フロントエンド。Vanilla HTML/CSS/JSのみで構築された無骨なマルチページ・ポートフォリオ。構造的完全性、オフラインファースト・キャッシュ、そしてフレームワークのオーバーヘッド完全排除を徹底。
 
 ### 関心領域・研究分野
 
