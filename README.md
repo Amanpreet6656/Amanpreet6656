@@ -15,7 +15,7 @@ I am a software developer who enjoys building systems from first principles. Rat
 ### Technical Stack
 
 - **Programming Languages:** C, C++, Java, Python, JavaScript (ES6+), PHP, SQL
-- **Frontend Architecture:** HTML5, CSS3, Tailwind CSS, Bootstrap
+- **Frontend Architecture:** Frontend Architecture: HTML5, CSS3, Vanilla JS (Proficient in Tailwind/Bootstrap, but strongly prefer zero-dependency architectures).
 - **Backend & Databases:** MySQL, Relational Database Design, WordPress
 - **Development Tools:** Git, GitHub, VS Code, Vite, LocalWP, XAMPP
 
