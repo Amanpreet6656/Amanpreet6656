@@ -15,14 +15,15 @@ I am a software developer who enjoys building systems from first principles. Rat
 ### Technical Stack
 
 - **Programming Languages:** C, C++, Java, Python, JavaScript (ES6+), PHP, SQL
-- **Frontend Architecture:** Frontend Architecture: HTML5, CSS3, Vanilla JS (Proficient in Tailwind/Bootstrap, but strongly prefer zero-dependency architectures).
+- **Frontend Architecture:** HTML5, CSS3, Vanilla JS (Proficient in Tailwind/Bootstrap, but strongly prefer zero-dependency architectures).
 - **Backend & Databases:** MySQL, Relational Database Design, WordPress
 - **Development Tools:** Git, GitHub, VS Code, Vite, LocalWP, XAMPP
 
 ### Primary Projects
 
-- **[InferC](https://github.com/Amanpreet6656/InferC):** A C++17 machine learning inference engine I built from scratch to study edge deployment and CPU cache locality, entirely without external dependencies.
+- **[Infer-C](https://github.com/Amanpreet6656/Infer-C):** A C++17 machine learning inference engine I built from scratch to study edge deployment and CPU cache locality, entirely without external dependencies.
 - **[Smart Kanji Analyzer](https://github.com/Amanpreet6656/smart-kanji-analyzer):** A client-side web tool I developed to automate Japanese vocabulary extraction and JLPT classification, combining my daily language studies with JavaScript and Kuromoji.js.
+- **[Japan Seismic & Weather Dashboard](https://github.com/Amanpreet6656/Japan-seismic-weather-dashboard):** A real-time seismic and meteorological monitoring platform for Japan, integrating Open-Meteo and USGS APIs with zero framework overhead.
 - **[BuildLedger Pro](https://github.com/Amanpreet6656/BuildLedger-Pro):** A local-first construction payroll manager I engineered for offline environments, built purely with Vanilla JavaScript and the Web Storage API.
 - **[Nihongo Syntax Matrix](https://github.com/Amanpreet6656/Nihongo-syntax-matrix):** A dependency-free, offline-first JavaScript engine I designed for processing Japanese temporal syntax and morphology.
 - **[Portfolio Architecture](https://github.com/Amanpreet6656/My-Portfolio):** Raw, zero-dependency frontend architecture. A brutalist, multi-page portfolio built with vanilla HTML/CSS/JS emphasizing structural integrity, offline-first caching, and zero framework overhead.
@@ -58,8 +59,9 @@ I am a software developer who enjoys building systems from first principles. Rat
 
 ### 主な開発実績
 
-- **[InferC](https://github.com/Amanpreet6656/InferC):** エッジ環境へのデプロイとCPUキャッシュの局所性（Cache Locality）を学ぶため、外部ライブラリを一切使わずにゼロから構築したC++17製ML推論エンジン。
+- **[Infer-C](https://github.com/Amanpreet6656/Infer-C):** エッジ環境へのデプロイとCPUキャッシュの局所性（Cache Locality）を学ぶため、外部ライブラリを一切使わずにゼロから構築したC++17製ML推論エンジン。
 - **[Smart Kanji Analyzer](https://github.com/Amanpreet6656/smart-kanji-analyzer):** 日々の日本語学習を効率化するために開発した語彙抽出・JLPTレベル自動判定ツール。Kuromoji.jsを活用し、解析処理をクライアントサイドで完結。
+- **[Japan Seismic & Weather Dashboard](https://github.com/Amanpreet6656/Japan-seismic-weather-dashboard):** Open-MeteoおよびUSGS APIを統合し、日本の気象・地震動向をリアルタイムで追跡する外部フレームワーク非依存の監視プラットフォーム。
 - **[BuildLedger Pro](https://github.com/Amanpreet6656/BuildLedger-Pro):** 建設現場などのオフライン環境を想定し、Vanilla JavaScriptとWeb Storage APIのみで設計したローカルファーストの給与計算管理ツール。
 - **[Nihongo Syntax Matrix](https://github.com/Amanpreet6656/Nihongo-syntax-matrix):** 日本語の時間表現・文法形態素を処理するために独自設計した、外部依存のないオフライン対応解析エンジン。
 - **[Portfolio Architecture](https://github.com/Amanpreet6656/My-Portfolio):** 依存関係ゼロのネイティブ・フロントエンド。Vanilla HTML/CSS/JSのみで構築された無骨なマルチページ・ポートフォリオ。構造的完全性、オフラインファースト・キャッシュ、そしてフレームワークのオーバーヘッド完全排除を徹底。
