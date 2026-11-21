@@ -22,7 +22,7 @@ I am a software developer who enjoys building systems from first principles. Rat
 ### Primary Projects
 
 - **[Infer-C](https://github.com/Amanpreet6656/Infer-C):** A C++17 machine learning inference engine I built from scratch to study edge deployment and CPU cache locality, entirely without external dependencies.
-- **[Smart Kanji Analyzer](https://github.com/Amanpreet6656/smart-kanji-analyzer):** A client-side web tool I developed to automate Japanese vocabulary extraction and JLPT classification, combining my daily language studies with JavaScript and Kuromoji.js.
+- **[Smart Kanji Analyzer](https://github.com/Amanpreet6656/smart-kanji-analyzer):** A client-side web tool I developed to automate Japanese vocabulary extraction and JLPT classification, combining my daily language studies with Vanilla JavaScript, Unicode evaluation, and KanjiAPI.
 - **[Japan Seismic & Weather Dashboard](https://github.com/Amanpreet6656/Japan-seismic-weather-dashboard):** A real-time seismic and meteorological monitoring platform for Japan, integrating Open-Meteo and USGS APIs with zero framework overhead.
 - **[BuildLedger Pro](https://github.com/Amanpreet6656/BuildLedger-Pro):** A local-first construction payroll manager I engineered for offline environments, built purely with Vanilla JavaScript and the Web Storage API.
 - **[Nihongo Syntax Matrix](https://github.com/Amanpreet6656/Nihongo-syntax-matrix):** A dependency-free, offline-first JavaScript engine I designed for processing Japanese temporal syntax and morphology.
@@ -60,7 +60,7 @@ I am a software developer who enjoys building systems from first principles. Rat
 ### 主な開発実績
 
 - **[Infer-C](https://github.com/Amanpreet6656/Infer-C):** エッジ環境へのデプロイとCPUキャッシュの局所性（Cache Locality）を学ぶため、外部ライブラリを一切使わずにゼロから構築したC++17製ML推論エンジン。
-- **[Smart Kanji Analyzer](https://github.com/Amanpreet6656/smart-kanji-analyzer):** 日々の日本語学習を効率化するために開発した語彙抽出・JLPTレベル自動判定ツール。Kuromoji.jsを活用し、解析処理をクライアントサイドで完結。
+- **[Smart Kanji Analyzer](https://github.com/Amanpreet6656/smart-kanji-analyzer):** 日々の日本語学習を効率化するために開発した語彙抽出・JLPTレベル自動判定ツール。Unicodeブロック評価とKanjiAPIを活用し、解析処理をクライアントサイドで完結。
 - **[Japan Seismic & Weather Dashboard](https://github.com/Amanpreet6656/Japan-seismic-weather-dashboard):** Open-MeteoおよびUSGS APIを統合し、日本の気象・地震動向をリアルタイムで追跡する外部フレームワーク非依存の監視プラットフォーム。
 - **[BuildLedger Pro](https://github.com/Amanpreet6656/BuildLedger-Pro):** 建設現場などのオフライン環境を想定し、Vanilla JavaScriptとWeb Storage APIのみで設計したローカルファーストの給与計算管理ツール。
 - **[Nihongo Syntax Matrix](https://github.com/Amanpreet6656/Nihongo-syntax-matrix):** 日本語の時間表現・文法形態素を処理するために独自設計した、外部依存のないオフライン対応解析エンジン。
